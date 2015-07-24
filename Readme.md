@@ -25,7 +25,7 @@ The example application and this tutorial is **not** meant to be a guide to best
 
 ####Assumed knowledge
 
-It is assumed that you have a solid understanding about the following libraries and technologies:
+It is assumed that you have a solid understanding around the following libraries and technologies:
 
 - jQuery
 - JavaScript Promises
