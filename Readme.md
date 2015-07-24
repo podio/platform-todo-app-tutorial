@@ -3,11 +3,11 @@
 ###In this tutorial:
 1. [Preparing the backend](#1-preparing-the-backend)
 2. [Connecting to the backend](#2-connecting-to-the-backend)
-3. [Authenticating the user](#authenticating-the-user)
+3. [Authenticating the user](#3-authenticating-the-user)
 4. [Creating the app class](#4-creating-the-app-class)
 5. [Setting up an organization & space](#5-setting-up-an-organization--space)
 6. [Loading data](#6-loading-data)
-7. [Rendering data & Routing](l#7-rendering-data--routing)
+7. [Rendering data & Routing](#7-rendering-data--routing)
 8. [Submitting data](#8-submitting-data)
 9. [Updating data (toggling to-do tasks)](#9-updating-data-toggling-to-do-tasks)
 10. [Deleting data](#10-deleting-data)
