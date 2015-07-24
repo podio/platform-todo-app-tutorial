@@ -1,0 +1,63 @@
+@import url(http://fonts.googleapis.com/css?family=Comfortaa:400,700);
+
+body {
+  margin: 40px;
+  font-size: 18px;
+  font-family: 'Comfortaa', cursive;
+}
+
+input {
+  font-size: 18px;
+  border: none;
+  border-bottom: 1px dashed #ccc;
+  outline: none;
+}
+
+#todo-app {
+  width: 600px;
+}
+
+#left-col {
+  float: left;
+  min-width: 200px;
+}
+
+#right-col {
+  margin-left: 200px;
+}
+
+a, a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.list {
+  margin-bottom: 10px;
+}
+
+.list.active a {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.remove {
+  color: #ddd;
+  cursor: pointer;
+}
+
+.remove:hover {
+  color: #333;
+}
+
+.task {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+label {
+  cursor: inherit;
+}
+
+.task.checked label {
+  text-decoration: line-through;
+}
