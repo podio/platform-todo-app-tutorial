@@ -8,7 +8,7 @@
 5. [Setting up an organization & space](#5-setting-up-an-organization--space)
 6. [Loading data](#6-loading-data)
 7. [Rendering data & Routing](#7-rendering-data--routing)
-8. [Submitting data](#8-submitting-data)
+8. [Creating data](#8-creating-data)
 9. [Updating data (toggling to-do tasks)](#9-updating-data-toggling-to-do-tasks)
 10. [Deleting data](#10-deleting-data)
 11. [Styling](#11-styling)
@@ -780,7 +780,7 @@ This function basically uses the ```item_id``` of the current list to get a refe
 
 It also attaches event listeners to the rendered tasks' DOM nodes, so they can be toggled and deleted.
 
-##8. Submitting data
+##8. Creating data
 
 ####The input fields
 
